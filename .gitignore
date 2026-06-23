@@ -1,0 +1,12 @@
+# Binários e artefatos de build
+*.exe
+*.o
+*.obj
+*.out
+
+# Banco de dados gerado em runtime
+*.db
+*.db-journal
+
+# Diversos
+.DS_Store
